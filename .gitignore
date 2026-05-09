@@ -1,0 +1,12 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook junk
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Local environment
+venv/
+env/
